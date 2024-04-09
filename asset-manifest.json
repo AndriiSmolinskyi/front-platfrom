@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/AndriiSmolinskyi/front-platfrom/static/css/main.aadf8881.css",
+    "main.js": "/AndriiSmolinskyi/front-platfrom/static/js/main.5adf0295.js",
+    "static/js/787.fe7bcd46.chunk.js": "/AndriiSmolinskyi/front-platfrom/static/js/787.fe7bcd46.chunk.js",
+    "static/media/second.png": "/AndriiSmolinskyi/front-platfrom/static/media/second.c27a2cdf7e8ae2802d10.png",
+    "static/media/four.png": "/AndriiSmolinskyi/front-platfrom/static/media/four.22fed39bf4a0a63c2985.png",
+    "static/media/three.png": "/AndriiSmolinskyi/front-platfrom/static/media/three.f264fdde6d6e8879393f.png",
+    "static/media/first.png": "/AndriiSmolinskyi/front-platfrom/static/media/first.c48bde2760eb0229abb5.png",
+    "static/media/eight.png": "/AndriiSmolinskyi/front-platfrom/static/media/eight.52c19277990cbab01969.png",
+    "static/media/six.png": "/AndriiSmolinskyi/front-platfrom/static/media/six.1b86a85cf9e47f843c77.png",
+    "static/media/five.png": "/AndriiSmolinskyi/front-platfrom/static/media/five.333a53a749bf5c307be6.png",
+    "static/media/nine.png": "/AndriiSmolinskyi/front-platfrom/static/media/nine.5ce0d13e20dfaac016ff.png",
+    "static/media/seven.png": "/AndriiSmolinskyi/front-platfrom/static/media/seven.edf7cea3b410813013c7.png",
+    "static/media/ten.png": "/AndriiSmolinskyi/front-platfrom/static/media/ten.37dc8cc82ca7ea3d15f2.png",
+    "static/media/justify.png": "/AndriiSmolinskyi/front-platfrom/static/media/justify.97f741e588c976cd5d00.png",
+    "static/media/six.jpg": "/AndriiSmolinskyi/front-platfrom/static/media/six.ecaffbcb979578045e56.jpg",
+    "static/media/eleven.png": "/AndriiSmolinskyi/front-platfrom/static/media/eleven.8f5b64f2f0c9b71e4b61.png",
+    "static/media/example1.png": "/AndriiSmolinskyi/front-platfrom/static/media/example1.29ad84b3a4972a7346d9.png",
+    "static/media/four.jpg": "/AndriiSmolinskyi/front-platfrom/static/media/four.cfdead1baa72a3848348.jpg",
+    "static/media/third.png": "/AndriiSmolinskyi/front-platfrom/static/media/third.0c401a1e0bf67fecfd5e.png",
+    "static/media/example3.png": "/AndriiSmolinskyi/front-platfrom/static/media/example3.d66408e10b05dc139b7c.png",
+    "static/media/two.png": "/AndriiSmolinskyi/front-platfrom/static/media/two.c9400d398f113b0cc728.png",
+    "static/media/fifth.jpg": "/AndriiSmolinskyi/front-platfrom/static/media/fifth.d8059e42c9d910758af0.jpg",
+    "static/media/third.jpg": "/AndriiSmolinskyi/front-platfrom/static/media/third.9d1f216362f2d2dedb9e.jpg",
+    "static/media/align.webp": "/AndriiSmolinskyi/front-platfrom/static/media/align.19238a29cc64d89a2962.webp",
+    "static/media/logo.svg": "/AndriiSmolinskyi/front-platfrom/static/media/logo.42de09c129daf90ddd246091999a1444.svg",
+    "index.html": "/AndriiSmolinskyi/front-platfrom/index.html",
+    "main.aadf8881.css.map": "/AndriiSmolinskyi/front-platfrom/static/css/main.aadf8881.css.map",
+    "main.5adf0295.js.map": "/AndriiSmolinskyi/front-platfrom/static/js/main.5adf0295.js.map",
+    "787.fe7bcd46.chunk.js.map": "/AndriiSmolinskyi/front-platfrom/static/js/787.fe7bcd46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aadf8881.css",
+    "static/js/main.5adf0295.js"
+  ]
+}
